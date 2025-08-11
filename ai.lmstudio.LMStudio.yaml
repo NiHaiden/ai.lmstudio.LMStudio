@@ -31,9 +31,9 @@ modules:
     buildsystem: simple
     sources:
       - type: extra-data
-        url: https://installers.lmstudio.ai/linux/x64/0.3.18-3/LM-Studio-0.3.18-3-x64.AppImage
-        size: 933769748
-        sha256: 2a73aed5f51cc751c86a28e7ab92b98df00b597b94e0f2123d3d9b178c4ff4d0
+        url: https://installers.lmstudio.ai/linux/x64/0.3.22-2/LM-Studio-0.3.22-2-x64.AppImage
+        size: 986650707
+        sha256: db357daec82176169908bfa277392fe28193d92bcf574e11d1c1caa07d77ec26
         filename: lmstudio.appimage
         x-checker-data:
           type: electron-updater
